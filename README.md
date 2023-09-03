@@ -1,6 +1,6 @@
 # Project landing page async with JavaScript and HTML
 
-This a simple landing page from the Platzi course "Curso de Asincronismo con JavaScript".
+This a simple landing page from the Platzi course "Curso de Asincronismo con JavaScript", connected with the Youtube v3 API to show the last videos.
 
 You can see the landing page here https://christina05011.github.io/async-landing/ .
 
